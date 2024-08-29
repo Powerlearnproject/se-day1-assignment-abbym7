@@ -13,7 +13,7 @@ The importance of Software Engineering in the technology industry includes:
 4. It incorporates security best practices into development process, ensuring that software systems are protected against.
 5. It drives innovation by providing the tools and frameworks needed to build new applications and services.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering
 
 1. Development of programmimg languages.Introduction of assembly language and early high-level languages like Fortran and COBOL in 1940's.
 2. Establishment of software engineering as a discipline.The introduction of structured programming by Edsger Dijkstra in 1960's promoted disciplined programming practices.
